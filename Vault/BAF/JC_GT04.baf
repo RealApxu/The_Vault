@@ -9,4 +9,3 @@ THEN
     Wait(1)
     ForceSpell(LastTrigger,TRAP_ARROW_FIRE)
 END
-

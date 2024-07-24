@@ -111,4 +111,3 @@ THEN
     ForceSpell(NearestEnemyOf(Myself),WIZARD_MELF_ACID_ARROW)
     Attack(NearestEnemyOf(Myself))
 END
-

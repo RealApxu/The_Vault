@@ -6,4 +6,3 @@ THEN
     ForceSpell(LastTrigger,TRAP_ARROW_BITING)
     ForceSpell(LastTrigger,WIZARD_WEB)
 END
-

@@ -7,4 +7,3 @@ THEN
     Wait(2)
     ForceSpell(LastTrigger,TRAP_FIREBALL)
 END
-

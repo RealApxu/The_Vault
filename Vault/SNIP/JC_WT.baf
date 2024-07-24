@@ -1,33 +1,31 @@
 IF
-	HPPercentLT(Myself,50)
-	HasItem("POTN08",Myself) // Potion of Healing
+    HPPercentLT(Myself,50)
+    HasItem("POTN08",Myself) // Potion of Healing
 THEN
-	RESPONSE #100
-		UseItem("POTN08",Myself) // Potion of Healing
+    RESPONSE #100
+        UseItem("POTN08",Myself) // Potion of Healing
 END
 
 IF
-	HPPercentLT(Myself,50)
-	HasItem("POTN52",Myself)
+    HPPercentLT(Myself,50)
+    HasItem("POTN52",Myself)
 THEN
-	RESPONSE #100
-		UseItem("POTN52",Myself)
+    RESPONSE #100
+        UseItem("POTN52",Myself)
 END
 
 IF
-	StateCheck(Myself,STATE_POISONED)
-	HasItem("POTN17",Myself) // Elixir of Health
+    StateCheck(Myself,STATE_POISONED)
+    HasItem("POTN17",Myself) // Elixir of Health
 THEN
-	RESPONSE #100
-		UseItem("POTN17",Myself) // Elixir of Health
+    RESPONSE #100
+        UseItem("POTN17",Myself) // Elixir of Health
 END
 
 IF
-	StateCheck(Myself,STATE_POISONED)
-	HasItem("POTN20",Myself) // Antidote
+    StateCheck(Myself,STATE_POISONED)
+    HasItem("POTN20",Myself) // Antidote
 THEN
-	RESPONSE #100
-		UseItem("POTN20",Myself) // Antidote
+    RESPONSE #100
+        UseItem("POTN20",Myself) // Antidote
 END
-
-

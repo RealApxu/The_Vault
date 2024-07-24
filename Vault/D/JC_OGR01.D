@@ -9,4 +9,3 @@ IF ~PartyHasItem("SW2VAL")~ THEN BEGIN OGR1
   SAY @1
   IF ~~ THEN DO ~Enemy()~ EXIT
 END
-

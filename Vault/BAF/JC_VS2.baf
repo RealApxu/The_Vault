@@ -6,4 +6,3 @@ THEN
     Wait(3)
     StartDialogueNoSet(LastSeenBy(Myself))
 END
-

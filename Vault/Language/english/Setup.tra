@@ -241,7 +241,7 @@ STATISTICS:
 Damage:  1D3 +1
 THACO:  +1 bonus
 Special: -1 to Strength and +1 to Dexterity when equipped
-	 Needs no arrows
+     Needs no arrows
 Damage Type: Piercing
 Weight: 3
 Speed Factor: 4
@@ -424,7 +424,7 @@ STATISTICS:
 Damage:  1D4 + 3
 THACO:  +2 bonus
 Special: +1 to strength while equipped
-	 +20% magic resistance while equipped
+     +20% magic resistance while equipped
 Damage type:  crushing
 Weight: 5
 Speed Factor: 3

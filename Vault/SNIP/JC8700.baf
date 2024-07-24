@@ -1,15 +1,13 @@
 IF
-	Global("VaultVisitedAR8700","GLOBAL",0)
+    Global("VaultVisitedAR8700","GLOBAL",0)
 THEN
-	RESPONSE #100
-		SetGlobal("VaultVisitedAR8700","GLOBAL",1)
+    RESPONSE #100
+        SetGlobal("VaultVisitedAR8700","GLOBAL",1)
 END
 
 IF
-	!Global("TheVaultPortal","GLOBAL",7)
+    !Global("TheVaultPortal","GLOBAL",7)
 THEN
-	RESPONSE #100
-		SetGlobal("TheVaultPortal","GLOBAL",7)
+    RESPONSE #100
+        SetGlobal("TheVaultPortal","GLOBAL",7)
 END
-
-

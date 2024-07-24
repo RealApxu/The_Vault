@@ -7,4 +7,3 @@ THEN
     Wait(1)
     DestroySelf()
 END
-

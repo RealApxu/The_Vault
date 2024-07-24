@@ -74,4 +74,3 @@ THEN
   RESPONSE #100
     Dialogue(Player6)
 END
-

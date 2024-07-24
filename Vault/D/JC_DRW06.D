@@ -1,7 +1,6 @@
 BEGIN ~JC_DRW06~
 
-IF ~Global("ReturnNashQuest","GLOBAL",7) GlobalGT("Chapter","GLOBAL",4) Global("ReturnNashQuestNandin","GLOBAL",1)~
-THEN BEGIN 6DRW00
+IF ~Global("ReturnNashQuest","GLOBAL",7) GlobalGT("Chapter","GLOBAL",4) Global("ReturnNashQuestNandin","GLOBAL",1)~ THEN BEGIN 6DRW00
   SAY @0
   IF ~~ THEN REPLY @1 GOTO 6DRW02
   IF ~~ THEN REPLY @2 GOTO 6DRW02

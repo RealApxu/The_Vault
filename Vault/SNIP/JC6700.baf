@@ -1,24 +1,22 @@
 IF
-	Global("VaultVisitedAR6700","GLOBAL",0)
+    Global("VaultVisitedAR6700","GLOBAL",0)
 THEN
-	RESPONSE #100
-		SetGlobal("VaultVisitedAR6700","GLOBAL",1)
+    RESPONSE #100
+        SetGlobal("VaultVisitedAR6700","GLOBAL",1)
 END
 
 IF
-	!Global("TheVaultPortal","GLOBAL",8)
+    !Global("TheVaultPortal","GLOBAL",8)
 THEN
-	RESPONSE #100
-		SetGlobal("TheVaultPortal","GLOBAL",8)
+    RESPONSE #100
+        SetGlobal("TheVaultPortal","GLOBAL",8)
 END
 
 IF
-	Global("ReturnNashQuest","GLOBAL",1)
-	!Dead("JC_THF01")
+    Global("ReturnNashQuest","GLOBAL",1)
+    !Dead("JC_THF01")
 THEN
-	RESPONSE #100
-		CreateCreature("JC_THF01",[1795.465],0)
-		SetGlobal("ReturnNashQuest","GLOBAL",2)
+    RESPONSE #100
+        CreateCreature("JC_THF01",[1795.465],0)
+        SetGlobal("ReturnNashQuest","GLOBAL",2)
 END
-
-

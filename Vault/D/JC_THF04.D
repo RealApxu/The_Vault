@@ -37,9 +37,7 @@ END
 
 IF ~~ THEN BEGIN 4THF06
   SAY @17
-  IF ~~ THEN REPLY @18 JOURNAL @19 DO ~ForceSpell(Myself,WIZARD_IMPROVED_INVISIBILITY) ChangeEnemyAlly(Myself,EVILCUTOFF)
-Enemy() CreateCreature("GOLSTO01",[-1.-1],0) CreateCreature("GOLSTO01",[-1.-1],0) CreateCreature("BGSTALKE",[-1.-1],0) CreateCreature("BGSTALKE",[-1.-1],0) CreateCreature("JC_THF03",[4740.2915],0) CreateCreature("JC_THF03",[4740.2915],0)
-SetGlobal("ReturnNashQuest","GLOBAL",99)~ EXIT
+  IF ~~ THEN REPLY @18 JOURNAL @19 DO ~ForceSpell(Myself,WIZARD_IMPROVED_INVISIBILITY) ChangeEnemyAlly(Myself,EVILCUTOFF) Enemy() CreateCreature("GOLSTO01",[-1.-1],0) CreateCreature("GOLSTO01",[-1.-1],0) CreateCreature("BGSTALKE",[-1.-1],0) CreateCreature("BGSTALKE",[-1.-1],0) CreateCreature("JC_THF03",[4740.2915],0) CreateCreature("JC_THF03",[4740.2915],0) SetGlobal("ReturnNashQuest","GLOBAL",99)~ EXIT
 END
 
 IF ~~ THEN BEGIN 4THF07
@@ -50,7 +48,7 @@ END
 
 IF ~~ THEN BEGIN 4THF08
   SAY @23
-  IF ~~ THEN REPLY @24 JOURNAL @25 DO ~AddexperienceParty(1000) SetGlobal("ReturnNashQuest","GLOBAL",6) EscapeArea()~ EXIT
+  IF ~~ THEN REPLY @24 JOURNAL @25 DO ~AddExperienceParty(1000) SetGlobal("ReturnNashQuest","GLOBAL",6) EscapeArea()~ EXIT
 END
 
 IF ~Global("ReturnNashQuest","GLOBAL",6) Global("ReturnNashQuestNandin","GLOBAL",3) Global("ReturnNashQuestZhurlo","GLOBAL",1)~ THEN BEGIN 4THF09

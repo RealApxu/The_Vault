@@ -14,7 +14,7 @@
 @11  = ~Somma Sacerdotessa Drow~
 @12  = ~Redentore~
 @13  = ~Kharaz~
-@14  = ~Orco della Tribù di Kharaz~
+@14  = ~Orco della Tribï¿½ di Kharaz~
 @15  = ~Orco Furioso~
 @16  = ~Guardia Scheletrica~
 @17  = ~Zernan~
@@ -33,15 +33,15 @@
 @30  = ~Casa della Regine delle Acque~
 @31  = ~Amuleto~
 @32  = ~Talismano di Ravenscar~
-@33  = ~La collana è un elemento metallico ornamentale di gioielleria di solito d'argento, d'oro, di platino o di altri metalli preziosi e adornata con gemme. La collana si porta al collo e può avere qualsiasi lunghezza.~
-@34  = ~Questo misterioso talismano fu creato dai Ladri Tenebrosi di Amn e donato ad uno dei loro capi della gilda, Alatos "Ravenscar". Il talismano aumenta la destrezza e garantisce al suo possessore elevate capacità di furto e la visione notturna. Il modo con cui è venuto in tuo possesso dimostra solamente che davvero non c'é onore tra i ladri.
+@33  = ~La collana ï¿½ un elemento metallico ornamentale di gioielleria di solito d'argento, d'oro, di platino o di altri metalli preziosi e adornata con gemme. La collana si porta al collo e puï¿½ avere qualsiasi lunghezza.~
+@34  = ~Questo misterioso talismano fu creato dai Ladri Tenebrosi di Amn e donato ad uno dei loro capi della gilda, Alatos "Ravenscar". Il talismano aumenta la destrezza e garantisce al suo possessore elevate capacitï¿½ di furto e la visione notturna. Il modo con cui ï¿½ venuto in tuo possesso dimostra solamente che davvero non c'ï¿½ onore tra i ladri.
 
 STATISTICHE:
 
 Speciale:
- +1 alla Destrezza finché indossato
- Infravisione finché indossato
- Invisibilità per 10 turni (cariche limitate)
+ +1 alla Destrezza finchï¿½ indossato
+ Infravisione finchï¿½ indossato
+ Invisibilitï¿½ per 10 turni (cariche limitate)
 Trovare/Rimuovere Trappole: +5% bonus
 Svuotare Tasche: +5% bonus
 Scassinare: +5% bonus
@@ -56,7 +56,7 @@ STATISTICHE:
 
 Peso: 2
 Non utilizzabile da:~
-@38  = ~Questa semplice cintura rende l'indossatore forte come un gigante delle colline, ma non lo rende di dimensioni gigantesche. Molti guerrieri vanitosi sono stati sorpresi da opponenti molto più piccoli con notevole forza. Molto spesso questa cintura ne è la ragione.
+@38  = ~Questa semplice cintura rende l'indossatore forte come un gigante delle colline, ma non lo rende di dimensioni gigantesche. Molti guerrieri vanitosi sono stati sorpresi da opponenti molto piï¿½ piccoli con notevole forza. Molto spesso questa cintura ne ï¿½ la ragione.
 
 STATISTICHE:
 
@@ -65,65 +65,65 @@ Non Utilizzabile da:
  Mago~
 @39  = ~Clava~
 @40  = ~L'Ira di Dageid~
-@41  = ~Le clave sono in genere bastoni di legno stretti all'impugnatura e più larghi all'altra estremità. Queste armi dalla struttura molto semplice sono state tra le prime utilizzate dagli uomini. E facile trovare un buon pezzo di legno con cui colpire ed è per questo che la clava si è diffusa molto. 
+@41  = ~Le clave sono in genere bastoni di legno stretti all'impugnatura e piï¿½ larghi all'altra estremitï¿½. Queste armi dalla struttura molto semplice sono state tra le prime utilizzate dagli uomini. E facile trovare un buon pezzo di legno con cui colpire ed ï¿½ per questo che la clava si ï¿½ diffusa molto. 
 
 STATISTICHE:
 
 Danno: 1D6
 Tipo di Danno: schiacciamento
 Peso: 3
-Fattore velocità: 4
-Tipo di capacità: Clava
+Fattore velocitï¿½: 4
+Tipo di capacitï¿½: Clava
 Tipo: ad una mano
 Non utilizzabile da:
  Mago~
 @42  = ~Clava +1: L'Ira di Dageid 
-Un barbaro della tribù degli Uthgodt, Dageid fu un terribile selvaggio che, durante i suoi viaggi lungo i Reami dava luogo a devastazioni e distruzioni ovunque passasse. Il suo regno di terrore ebbe fine a causa di un'imboscata finita nel sangue organizzata dai nobili di Silverymoon. Si dice che questa clava, in alcune occasioni, sia ancora in grado di liberare l'ira mortale del barbaro durante il combattimento, uccidendo la sfortunata vittima solamente con alcuni colpi critici.
+Un barbaro della tribï¿½ degli Uthgodt, Dageid fu un terribile selvaggio che, durante i suoi viaggi lungo i Reami dava luogo a devastazioni e distruzioni ovunque passasse. Il suo regno di terrore ebbe fine a causa di un'imboscata finita nel sangue organizzata dai nobili di Silverymoon. Si dice che questa clava, in alcune occasioni, sia ancora in grado di liberare l'ira mortale del barbaro durante il combattimento, uccidendo la sfortunata vittima solamente con alcuni colpi critici.
 
 STATISTICHE:
 
 Danno: 1D6 +1 
 THAC0: bonus +1
 Speciale:
- +1 alla Forza finché in uso 
+ +1 alla Forza finchï¿½ in uso 
  il 50% delle volte, il bersaglio colpito dall'Ira di Dageid deve effettuare un tiro Salvezza contro morte o ricevere un danno addizionale da schiacciamento di +10
 Tipo di Danno: da schiacciamento
 Peso: 2
-Fattore Velocità: 3
-Tipo di Capacità: Clava
+Fattore Velocitï¿½: 3
+Tipo di Capacitï¿½: Clava
 Tipo: ad una mano
 Non utilizzabile da:
  Mago~
 @43  = ~Mazza~
 @44  = ~Portatrice di Morte~
-@45  = ~La mazza è un diretto discendente della clava, poiché non è altro che un bastone di legno sulla cui estremità è montata una punta di ferro. In questo caso la punta è conica, montata su un bastone di quercia levigato, e sembra risplendere di una luce blu interna.
+@45  = ~La mazza ï¿½ un diretto discendente della clava, poichï¿½ non ï¿½ altro che un bastone di legno sulla cui estremitï¿½ ï¿½ montata una punta di ferro. In questo caso la punta ï¿½ conica, montata su un bastone di quercia levigato, e sembra risplendere di una luce blu interna.
 
 STATISTICHE:
 
 Danno: 1D6 + 1
 Tipo di danno: da schiacciamento
 Peso: 8
-Fattore Velocità: 7
-Tipo di Capacità: Mazza
+Fattore Velocitï¿½: 7
+Tipo di Capacitï¿½: Mazza
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Mago
  Ladro~
 @46  = ~Mazza +1: Portatrice di Morte 
-La Portatrice di Morte scaturisce dal puro e semplice caos e, questa dote, la rende inutilizzabile a coloro che si ritengono conformi alla legge e alla legalità. L'arma vibra di una carica soprannaturale e sembra trarre la sua energia dai fulmini di furiose tempeste. Ad oggi, nessuno sa con precisione quando fu creata questa mazza, chi la creò, e a cosa dovesse servire. Si suppone che lo scopo di quest'arma era di poter uccidere le sue vittime in un istante per mezzo dei suoi fulmini. Il suo creatore, tuttavia, non fu in grado di far contenere completamente questo potere durante il suo uso, malgrado il tentativo di impregnare l'arma con diverse protezioni magiche dagli elementi. Per questo motivo dalla mazza vengono lanciati violenti fulmini, uccidendo il bersaglio praticamente all'istante. Il suo nome, a quanto pare, sembra veramente appropriato.
+La Portatrice di Morte scaturisce dal puro e semplice caos e, questa dote, la rende inutilizzabile a coloro che si ritengono conformi alla legge e alla legalitï¿½. L'arma vibra di una carica soprannaturale e sembra trarre la sua energia dai fulmini di furiose tempeste. Ad oggi, nessuno sa con precisione quando fu creata questa mazza, chi la creï¿½, e a cosa dovesse servire. Si suppone che lo scopo di quest'arma era di poter uccidere le sue vittime in un istante per mezzo dei suoi fulmini. Il suo creatore, tuttavia, non fu in grado di far contenere completamente questo potere durante il suo uso, malgrado il tentativo di impregnare l'arma con diverse protezioni magiche dagli elementi. Per questo motivo dalla mazza vengono lanciati violenti fulmini, uccidendo il bersaglio praticamente all'istante. Il suo nome, a quanto pare, sembra veramente appropriato.
 
 STATISTICHE:
 
 Danno: 1D6 + 2
 THACO: bonus +1
 Speciale: 
- 5% di possibilità che il bersaglio colpito dalla Portatrice di Morte sia ucciso istantaneamente ed il suo possessore subisca 6D6 di danno elettrico (Dimezzato da tiro salvezza contro Morte)
- +10% di resistenza all'Elettricità
+ 5% di possibilitï¿½ che il bersaglio colpito dalla Portatrice di Morte sia ucciso istantaneamente ed il suo possessore subisca 6D6 di danno elettrico (Dimezzato da tiro salvezza contro Morte)
+ +10% di resistenza all'Elettricitï¿½
 Tipo di danno: da schiacciamento
 Peso: 4
-Fattore Velocità: 4
-Tipo di Capacità: Mazza
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Mazza
 Tipo: ad una mano
 Non utilizzabile da:
  Personaggi di Allineamento Legale
@@ -132,7 +132,7 @@ Non utilizzabile da:
  Ladro~
 @47  = ~Rovo Avvelenato~
 @48  = ~Clava +1: Il Rovo Avvelenato
- Il Rovo Avvelenato è un'arma letale creata dai Ladri Tenebrosi per assisterli e proteggerli dalle foreste e dalle loro creature ed anche per punire chi osa danneggiarli. Con un colpo andato a buon fine, il bersaglio è colpito da due o più estremità del rovo avvelenato dell'arma magica, a questo si somma il danno del potente veleno.
+ Il Rovo Avvelenato ï¿½ un'arma letale creata dai Ladri Tenebrosi per assisterli e proteggerli dalle foreste e dalle loro creature ed anche per punire chi osa danneggiarli. Con un colpo andato a buon fine, il bersaglio ï¿½ colpito da due o piï¿½ estremitï¿½ del rovo avvelenato dell'arma magica, a questo si somma il danno del potente veleno.
 
 STATISTICHE:
 
@@ -142,29 +142,29 @@ Speciale:
  Ogni bersaglio colpito dal Rovo Avvelenato deve effettuare un Tiro salvezza contro Veleno con un bonus di +2 o ricevere 1 danno da veleno per 8 secondi
 Tipo di danno: da schiacciamento
 Peso: 3
-Fattore Velocità: 3
-Tipo di Capacità: Clava
+Fattore Velocitï¿½: 3
+Tipo di Capacitï¿½: Clava
 Tipo: ad una mano
 Non utilizzabile da:
  Mago~
 @49  = ~Mazzafrusto~
 @50  = ~Furia del Caos~
-@51  = ~Il mazzafrusto è composto da una solida impugnatura di legno collegata a una verga di ferro o di legno, oppure a una palla, provvista di spine. Tra l'impugnatura e il resto si trova un perno o un anello. L'arma deriva da uno strumento usato originariamente per trebbiare il grano..  
+@51  = ~Il mazzafrusto ï¿½ composto da una solida impugnatura di legno collegata a una verga di ferro o di legno, oppure a una palla, provvista di spine. Tra l'impugnatura e il resto si trova un perno o un anello. L'arma deriva da uno strumento usato originariamente per trebbiare il grano..  
 
 STATISTICHE:
 
 Danno: 1D6 +1
 Tipo di danno: da schiacciamento
 Peso: 15
-Fattore Velocità: 7
-Tipo di Capacità: Mazzafrusto/Morning Star
+Fattore Velocitï¿½: 7
+Tipo di Capacitï¿½: Mazzafrusto/Morning Star
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Mago 
  Ladro~
 @52  = ~Mazzafrusto +2: Furia del Caos
-Creato dai Duergar appositamente per essere usato in guerra, la Furia del Caos ha visto guerre di sangue e terribili assedi tra i nani grigi e i loro molteplici nemici. Il mazzafrusto ha il manico rinforzato di legno ed é munito con una palla incantata di ferro appuntita che procura danni addizionali ad ogni colpo.
+Creato dai Duergar appositamente per essere usato in guerra, la Furia del Caos ha visto guerre di sangue e terribili assedi tra i nani grigi e i loro molteplici nemici. Il mazzafrusto ha il manico rinforzato di legno ed ï¿½ munito con una palla incantata di ferro appuntita che procura danni addizionali ad ogni colpo.
 
 STATISTICHE:
 
@@ -173,8 +173,8 @@ THACO: +2
 Speciale: +3 di danno da punta
 Tipo di danno:  da schiacciamento
 Peso: 11
-Fattore Velocità: 5
-Tipo di Capacità: Mazzafrusto/Morning Star
+Fattore Velocitï¿½: 5
+Tipo di Capacitï¿½: Mazzafrusto/Morning Star
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
@@ -182,29 +182,29 @@ Non utilizzabile da:
  Ladro~
 @53  = ~La Dormiente~
 @54  = ~Mazza +2: La Dormiente
-Quest'arma apparteneva a Ssitalc, un elfo insolitamente malvagio conosciuto come lo Schiavista della Costa della Spada. Fino alla sua morte improvvisa, avvenuta molti anni fa, Ssitalc era a capo di una grossa banda di briganti umani, nanici e gnomici, e usala la dormiente per tenerli in riga. L'arma ha la capacità di tramortire ogni umano, nano o gnomo presente inducendo in loro un sonno pesante, mentre gli elfi ne sono convenientemente immuni. 
+Quest'arma apparteneva a Ssitalc, un elfo insolitamente malvagio conosciuto come lo Schiavista della Costa della Spada. Fino alla sua morte improvvisa, avvenuta molti anni fa, Ssitalc era a capo di una grossa banda di briganti umani, nanici e gnomici, e usala la dormiente per tenerli in riga. L'arma ha la capacitï¿½ di tramortire ogni umano, nano o gnomo presente inducendo in loro un sonno pesante, mentre gli elfi ne sono convenientemente immuni. 
 STATISTICHE:
 
 Danno: 1D6 + 3
 THACO: +2
-Speciale: Ogni bersaglio colpito dalla Dormiente deve effettuare un Tiro Salvezza contro Veleno con un bonus di +2 o cadrà addormentato per 12 secondi
+Speciale: Ogni bersaglio colpito dalla Dormiente deve effettuare un Tiro Salvezza contro Veleno con un bonus di +2 o cadrï¿½ addormentato per 12 secondi
 Tipo di danno:  da schiacciamento
 Peso: 6
-Fattore Velocità: 4
-Tipo di Capacità: Mazza
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Mazza
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Mago
  Ladro~
 @55  = ~Libro della Conoscenza Antica~
-@56  = ~Questo libro é stato oggetto di scambio tra <CHARNAME> e un erudito della Storia delle Pergamene Inferiori. 
+@56  = ~Questo libro ï¿½ stato oggetto di scambio tra <CHARNAME> e un erudito della Storia delle Pergamene Inferiori. 
 La grafia di questo testo resta completamente indecifrabile nonostante qualsiasi tentativo di interpretazione mediante la magia normale o altri mezzi.~
-@57  = ~Questo libro é stato oggetto di scambio tra <CHARNAME> e un erudito della Storia delle Pergamene Inferiori. Il suo valore, a quanto si dice, ammonterebbe a 10,000 monete d'oro o anche di più.
+@57  = ~Questo libro ï¿½ stato oggetto di scambio tra <CHARNAME> e un erudito della Storia delle Pergamene Inferiori. Il suo valore, a quanto si dice, ammonterebbe a 10,000 monete d'oro o anche di piï¿½.
 La grafia di questo testo resta completamente indecifrabile nonostante qualsiasi tentativo di interpretazione mediante la magia normale o altri mezzi.~
 @58  = ~Stivali Consumati~
 @59  = ~Stivali della Volpe~
-@60  = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualità sono fatti su misura per il piede di chi li indosserà. 
+@60  = ~Gli stivali vengono di solito fatti a mano dai ciabattini. Gli stivali comuni sono fatti utilizzando una forma, ma quelli di buona qualitï¿½ sono fatti su misura per il piede di chi li indosserï¿½. 
 
 STATISTICHE:
 
@@ -214,18 +214,18 @@ Peso: 4~
 STATISTICHE:
 
 Classe Armatura: bonus +1
-Speciale: velocità aumentata del +40%
+Speciale: velocitï¿½ aumentata del +40%
 Peso: 3~
 @62  = ~Arco Corto~
 @63  = ~Arco Fantasma~
-@64  = ~Gli archi corti furono i primi ad apparire, anche se non con questo nome. Più che altro questo è un termine generico che si riferisce a ogni arma di questo tipo che non è un arco lungo. Le aste degli archi corti hanno lunghezza media di 1,5 m. Con il trascorrere degli anni si è cercato di aumentare la gittata degli archi costruendoli con aste più lunghe, oppure con maggiore flessibilità senza modificarne la lunghezza giungendo, nel primo caso, alla creazione dell'arco lungo..  
+@64  = ~Gli archi corti furono i primi ad apparire, anche se non con questo nome. Piï¿½ che altro questo ï¿½ un termine generico che si riferisce a ogni arma di questo tipo che non ï¿½ un arco lungo. Le aste degli archi corti hanno lunghezza media di 1,5 m. Con il trascorrere degli anni si ï¿½ cercato di aumentare la gittata degli archi costruendoli con aste piï¿½ lunghe, oppure con maggiore flessibilitï¿½ senza modificarne la lunghezza giungendo, nel primo caso, alla creazione dell'arco lungo..  
 
 STATISTICHE:
 
 Danno: 
 Peso: 2
-Fattore Velocità: 6
-Tipo di Capacità: Arco corto
+Fattore Velocitï¿½: 6
+Tipo di Capacitï¿½: Arco corto
 Tipo: a due mani
 Non utilizzabile da:
  Druido
@@ -241,11 +241,11 @@ STATISTICHE:
 Danno: 1D3 +1
 THACO: bonus +1
 Speciale: -1 alla Forza e +1 alla Destrezza quando usato
-	 Non necessita di frecce
+     Non necessita di frecce
 Tipo di danno: Perforante
 Peso: 3
-Fattore Velocità: 4
-Tipo di Capacità: Arco corto
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Arco corto
 Tipo: a due mani
 Non utilizzabile da:
  Druido
@@ -253,7 +253,7 @@ Non utilizzabile da:
  Mago~
 @66  = ~Proiettile~
 @67  = ~Proiettile di Fuoco~
-@68  = ~Un proiettile è semplicemente una pietra rotonda ben bilanciata. 
+@68  = ~Un proiettile ï¿½ semplicemente una pietra rotonda ben bilanciata. 
 
 STATISTICHE:
 
@@ -261,19 +261,19 @@ Danno: 1D4 + 1
 Tipo di danno:  proiettile (perforazione)
 Peso: 0
 Dispositivo di lancio: Fionda~
-@69  = ~Questa rara e ben bilanciata pietra é stata imbevuta con delle proprietà magiche che gli permettono di essere più precisa e letale. E' stata imbevuta anche con delle proprietà che la fanno esplodere in una piccolo fiamma al momento dell'impatto, facendola diventare potenzialmente pericolosa se finisce in mani capaci.
+@69  = ~Questa rara e ben bilanciata pietra ï¿½ stata imbevuta con delle proprietï¿½ magiche che gli permettono di essere piï¿½ precisa e letale. E' stata imbevuta anche con delle proprietï¿½ che la fanno esplodere in una piccolo fiamma al momento dell'impatto, facendola diventare potenzialmente pericolosa se finisce in mani capaci.
 
 STATISTICHE:
 
 Danno: 1D4 + 3
-Speciale: 1D4 di danno da fuoco (nessun danno se si è protetti da Salva contro Incantesimi) 
+Speciale: 1D4 di danno da fuoco (nessun danno se si ï¿½ protetti da Salva contro Incantesimi) 
 THACO:  +2
 Tipo di danno:  proiettile (perforazione)
 Peso: 0
 Dispositivo di lancio: Fionda~
 @70  = ~Corazza di Maglia~
 @71  = ~Cotta di Maglia Drow +2~
-@72  = ~La corazza di maglia è fatta di anelli di metallo incastrati tra loro. Viene sempre indossata sopra uno strato imbottito di tessuto o di cuoio morbido per evitare sfregamenti e attutire l'impatto dei colpi.  
+@72  = ~La corazza di maglia ï¿½ fatta di anelli di metallo incastrati tra loro. Viene sempre indossata sopra uno strato imbottito di tessuto o di cuoio morbido per evitare sfregamenti e attutire l'impatto dei colpi.  
 
 STATISTICHE:
 
@@ -284,7 +284,7 @@ Non utilizzabile da:
  Mago 
  Ladro~
 @73  = ~Cotta di Maglia Drow +2
-La Cotta di Maglia é una cotta di maglia elfica create con un metallo che si può trovare solo nel Sottosuolo.  
+La Cotta di Maglia ï¿½ una cotta di maglia elfica create con un metallo che si puï¿½ trovare solo nel Sottosuolo.  
 
 STATISTICHE:
 Classe Armatura: 3
@@ -293,7 +293,7 @@ Non utilizzabile da:
  Druido~
 @74  = ~Abito del Mago~
 @75  = ~L'Abito d'Acciaio~
-@76  = ~Fin dall'era di Netheril, i maghi hanno imparato ad attribuire varie proprietà magiche agli oggetti che li circondano. Uno degli oggetti preferiti per questi incantesimi è il abito comune. E leggero, economico e tiene bene l'incantesimo, facendone l'equipaggiamento ideale per un mago. Per il loro patrimonio magico, tuttavia, solo i maghi di classe singola, duale e multiclasse possono indossare questi abiti incantati.
+@76  = ~Fin dall'era di Netheril, i maghi hanno imparato ad attribuire varie proprietï¿½ magiche agli oggetti che li circondano. Uno degli oggetti preferiti per questi incantesimi ï¿½ il abito comune. E leggero, economico e tiene bene l'incantesimo, facendone l'equipaggiamento ideale per un mago. Per il loro patrimonio magico, tuttavia, solo i maghi di classe singola, duale e multiclasse possono indossare questi abiti incantati.
 
 STATISTICHE:
 
@@ -301,9 +301,9 @@ Peso:  9
 Utilizzabile solo da:
 Mago (singolo, duale, e multiclasse)~
 @77  = ~L'Abito d'Acciaio
-L'Abito d'Acciaio è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti, degni dello stesso Thalantyr.
+L'Abito d'Acciaio ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti, degni dello stesso Thalantyr.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami, facendone un formidabile mago.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami, facendone un formidabile mago.
 
 STATISTICHE:
 
@@ -312,15 +312,15 @@ Tiro Salvezza: bonus +1
 Resistenza alla Magia: 20%
 Resistenza al Fuoco: 20% 
 Resistenza al Freddo: 20% 
-Resistenza all'Elettricità: 20% 
+Resistenza all'Elettricitï¿½: 20% 
 Peso: 9
 Utilizzabile solo da:
 Mago (singolo, duale, e multiclasse)~
 @78  = ~Abito Minore della Resistenza~
 @79  = ~Abito Minore della Resistenza
-L'Abito Minore della Resistenza è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
+L'Abito Minore della Resistenza ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
 
 STATISTICHE:
 
@@ -328,15 +328,15 @@ Classe Armatura:  7
 Resistenza alla Magia: 5%
 Resistenza al Fuoco: 20% 
 Resistenza al Freddo: 20% 
-Resistenza all'Elettricità: 20% 
+Resistenza all'Elettricitï¿½: 20% 
 Peso: 9
 Utilizzabile solo da:
 Mago (singolo, duale, e multiclasse)~
-@80  = ~Abito dell’Erudito~
-@81  = ~L'Abito dell’Erudito
-L'Abito dell’Erudito è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
+@80  = ~Abito dellï¿½Erudito~
+@81  = ~L'Abito dellï¿½Erudito
+L'Abito dellï¿½Erudito ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
 
 STATISTICHE:
 
@@ -348,7 +348,7 @@ Utilizzabile solo da:
 Mago (singolo, duale, e multiclasse)~
 @82  = ~Elmo~
 @83  = ~Corona dei Re Decaduti~
-@84  = ~Questa classe di elmi a viso aperto, fatti di cuoio rinforzato o di metallo, copre quasi tutta la testa, eccetto il volto e il collo. Questo sembra un elmo ornamentale e forse potrà essere valutato ad un buon prezzo.
+@84  = ~Questa classe di elmi a viso aperto, fatti di cuoio rinforzato o di metallo, copre quasi tutta la testa, eccetto il volto e il collo. Questo sembra un elmo ornamentale e forse potrï¿½ essere valutato ad un buon prezzo.
 
 STATISTICHE:
 
@@ -359,7 +359,7 @@ Non utilizzabile da:
 Mago
 Bardo
 Ladro~
-@85  = ~Scoperta per la prima volta nelle vecchie rovine a Sud di Amn, questa corona ha visto la resa e la caduta di innumerevoli imperi. Fu venerata da molti sia come un simbolo che indicasse la sovranità pacifica e sia a come un simbolo di dichiarazione di guerre. La storia narra che questa corona fu vista, l'ultima volta, nelle mani di un crudele tiranno in fuga dal suo regno ormai decaduto e diretto verso il Mare delle Spade, per poi perdersi nelle sue fredde acque. 
+@85  = ~Scoperta per la prima volta nelle vecchie rovine a Sud di Amn, questa corona ha visto la resa e la caduta di innumerevoli imperi. Fu venerata da molti sia come un simbolo che indicasse la sovranitï¿½ pacifica e sia a come un simbolo di dichiarazione di guerre. La storia narra che questa corona fu vista, l'ultima volta, nelle mani di un crudele tiranno in fuga dal suo regno ormai decaduto e diretto verso il Mare delle Spade, per poi perdersi nelle sue fredde acque. 
 
 STATISTICHE:
 
@@ -376,7 +376,7 @@ Non utilizzabile da:
 N~
 @88  = ~Cotta di Maglia Elfica +2~
 @89  = ~Cotta di Maglia Elfica +2
-Durante l'Età dell'Oro tra gli Elfi della Mano dei Seldarine e i Nani degli Abissi di Dorn furono create queste illustri Maglie Elfiche. Create con raffinati anelli connessi fra di loro, lo splendore delle Cotte di Maglia Elfiche permettono a chi le indossa movimenti senza impedimenti e protezione dalla magia minore. 
+Durante l'Etï¿½ dell'Oro tra gli Elfi della Mano dei Seldarine e i Nani degli Abissi di Dorn furono create queste illustri Maglie Elfiche. Create con raffinati anelli connessi fra di loro, lo splendore delle Cotte di Maglia Elfiche permettono a chi le indossa movimenti senza impedimenti e protezione dalla magia minore. 
 
 STATISICHE:
 Classe Armatura: 3
@@ -388,7 +388,7 @@ Monaco
 Druido~
 @90  = ~Cotta di Maglia Elfica del Sottosuolo +1~
 @91  = ~Cotta di Maglia Elfica del Sottosuolo +1
-Questa magnifica Cotta di maglia Elfica é fatta di illithium, un raro metallo che si può trovare solamente all'interno delle profonde cavità di Faerun, e come tale è irradiata da una forte aura magica. I complessi disegni e le rune incise sulla superficie dell'armatura indicano che fu creata soprattutto per le sacerdotesse Drow visto che, questa Cotta di Maglia, permette a chi la indossa di potersi paragonare alle divinità e ai semidei dei reami, e benché tutto ciò potrebbe essere una forma di alta reverenza e splendore nel Sottosuolo, risulta invece ripugnante agli occhi degli abitanti della superficie e chiunque la indossi viene penalizzato di conseguenza. 
+Questa magnifica Cotta di maglia Elfica ï¿½ fatta di illithium, un raro metallo che si puï¿½ trovare solamente all'interno delle profonde cavitï¿½ di Faerun, e come tale ï¿½ irradiata da una forte aura magica. I complessi disegni e le rune incise sulla superficie dell'armatura indicano che fu creata soprattutto per le sacerdotesse Drow visto che, questa Cotta di Maglia, permette a chi la indossa di potersi paragonare alle divinitï¿½ e ai semidei dei reami, e benchï¿½ tutto ciï¿½ potrebbe essere una forma di alta reverenza e splendore nel Sottosuolo, risulta invece ripugnante agli occhi degli abitanti della superficie e chiunque la indossi viene penalizzato di conseguenza. 
 
 STATISTICHE:
 
@@ -405,30 +405,30 @@ Non utilizzabile da:
  Druido~
 @92  = ~Martello da Guerra~
 @93  = ~L'Influenza di Lathander~
-@94  = ~I cavalieri non possono usare con efficacia armi in asta quando sono a cavallo, e come risultato molte armi sono state adattate su aste più corte in modo da poter essere impugnate con una sola mano. Le mazze e i mazzafrusti sono due esempi in merito, il martello da guerra è un altro. Il martello da guerra del cavaliere è il discendente del martello di Lucerna. E' fatto interamente in acciaio, con rondelle che proteggono e rinforzano l'impugnatura. Le rondelle sono piccoli dischi di metallo spesso ornati con motivi decorativi. L'asta è lunga circa 54 cm. 
+@94  = ~I cavalieri non possono usare con efficacia armi in asta quando sono a cavallo, e come risultato molte armi sono state adattate su aste piï¿½ corte in modo da poter essere impugnate con una sola mano. Le mazze e i mazzafrusti sono due esempi in merito, il martello da guerra ï¿½ un altro. Il martello da guerra del cavaliere ï¿½ il discendente del martello di Lucerna. E' fatto interamente in acciaio, con rondelle che proteggono e rinforzano l'impugnatura. Le rondelle sono piccoli dischi di metallo spesso ornati con motivi decorativi. L'asta ï¿½ lunga circa 54 cm. 
 
 STATISTICHE:
 Danno:  1D4 + 1
 Tipo di danno: da schiacciamento
 Peso: 6
-Fattore Velocità: 4
-Tipo di Capacità: Armi Contundenti
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Armi Contundenti
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Mago 
  Ladro~
-@95  = ~Una volta era solo un martello con piccoli incantamenti, poi a questa arma sacra fu concessa la benedizione di Lathander dal Sacerdote dell'alba Bran per l'eroico <CHARNAME> come ringraziamento per la liberazione dal demone minore Lestraubimat nella Costa della Spada. Il Martello conferisce, al momento del suo utilizzo una forza prodigiosa e l'immunità contro la magia minore. Solo i puri di cuore e i valorosi possono essere in grado di sollevare il martello. 
+@95  = ~Una volta era solo un martello con piccoli incantamenti, poi a questa arma sacra fu concessa la benedizione di Lathander dal Sacerdote dell'alba Bran per l'eroico <CHARNAME> come ringraziamento per la liberazione dal demone minore Lestraubimat nella Costa della Spada. Il Martello conferisce, al momento del suo utilizzo una forza prodigiosa e l'immunitï¿½ contro la magia minore. Solo i puri di cuore e i valorosi possono essere in grado di sollevare il martello. 
 
 STATISTICHE:
 Danno: 1D4 + 3
 THACO: bonus +2
 Speciale: +1 alla Forza quando indossato
-	 +20% di resistenza alla magia mentre usato
+     +20% di resistenza alla magia mentre usato
 Tipo di danno: da schiacciamento
 Peso: 5
-Fattore Velocità: 3
-Tipo di Capacità: Armi Contundenti
+Fattore Velocitï¿½: 3
+Tipo di Capacitï¿½: Armi Contundenti
 Tipo: ad una mano
 Non utilizzabile da: 
  Personaggi di Allineamento Malvagio
@@ -445,7 +445,7 @@ Peso: 2
 Utilizzabile da:
  Bardo
  Ladro~
-@99  = ~I cappelli di feltro sono i favoriti dai ladri e dai bardi, anche se offrono solamente piccole protezioni. Questo cappello, tuttavia è stato incantato, e benché sembri fragile come un qualunque cappello, riesce a resistere ed a sostenere un buon colpo.
+@99  = ~I cappelli di feltro sono i favoriti dai ladri e dai bardi, anche se offrono solamente piccole protezioni. Questo cappello, tuttavia ï¿½ stato incantato, e benchï¿½ sembri fragile come un qualunque cappello, riesce a resistere ed a sostenere un buon colpo.
 
 STATISTICHE:
 
@@ -459,14 +459,14 @@ Utilizzabile da:
  Ladro~
 @100 = ~Elmo della Difesa~
 @101 = ~Elmo della Difesa: 'Dono di Pace'
-Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. L'elmo ha affrontato molte battaglie da quando è stato creato, ma è sempre rimasto fedele alla semplice natura di quel gesto.
+Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. L'elmo ha affrontato molte battaglie da quando ï¿½ stato creato, ma ï¿½ sempre rimasto fedele alla semplice natura di quel gesto.
 Taerom "Thunderhammer" Fuiruim ha migliorato questo elmo donandogli una maggiore protezione a colui che lo indossa.
 
 STATISTICHE:
 
 Bonus alla Classe Armatura: 1
 Tiro Salvezza: bonus +1
-Resistenza all'Elettricità: +20%
+Resistenza all'Elettricitï¿½: +20%
 Resistenza al Freddo: +20%
 Resistenza al Fuoco: +20%
 Speciale: Protegge contro i Colpi Critici
@@ -476,8 +476,8 @@ Mago
 Bardo
 Ladro~
 @102 = ~Elmo dell'Infravisione~
-@103 = ~Elmo dell'Infravisione: 'Gli Occhi della Verità'
-Da tipica predatrice, Babette Maelestrom si fece fare questo elmo per le sue escursioni nei sotterranei. Più tardi, sostenne che aveva raccolto tutti quei tesori grazie ai poteri dell'elmo, anche se probabilmente il merito fu soprattutto della sua vista di falco.  
+@103 = ~Elmo dell'Infravisione: 'Gli Occhi della Veritï¿½'
+Da tipica predatrice, Babette Maelestrom si fece fare questo elmo per le sue escursioni nei sotterranei. Piï¿½ tardi, sostenne che aveva raccolto tutti quei tesori grazie ai poteri dell'elmo, anche se probabilmente il merito fu soprattutto della sua vista di falco.  
 Taerom "Thunderhammer" Fuiruim ha migliorato questo elmo donandogli una maggiore protezione a colui che lo indossa.
 
 STATISTICHE:
@@ -501,7 +501,7 @@ STATISTICHE:
 Bonus alla Classe Armatura: 1
 Speciale:
     Protegge contro i Colpi Critici
-    Colui che lo indossa è immune allo charme
+    Colui che lo indossa ï¿½ immune allo charme
 Peso: 4
 Non utilizzabile da:
 Mago
@@ -509,7 +509,7 @@ Bardo
 Ladro~
 @106 = ~Armatura di Pelle~
 @107 = ~Pelle di Bala~
-@108 = ~L'Armatura di pelle è fatta dalla tenace pelle di animali giganti (elefanti, per esempio) o da strati di comune cuoio più sottile. E' considerata troppo ingombrante per il suo utilizzo nelle culture umane avanzate, ma è comune tra gli umanoidi barbarici. Offre una protezione migliore del normale cuoio, ma può essere difficile da mantenere, spesso ottenendo il risultato di un cattivo odore e di un aspetto trasandato che ne impedisce l'uso efficace. I ladri possono indossare questa armatura, ma ha un effetto negativo sulle loro abilità.
+@108 = ~L'Armatura di pelle ï¿½ fatta dalla tenace pelle di animali giganti (elefanti, per esempio) o da strati di comune cuoio piï¿½ sottile. E' considerata troppo ingombrante per il suo utilizzo nelle culture umane avanzate, ma ï¿½ comune tra gli umanoidi barbarici. Offre una protezione migliore del normale cuoio, ma puï¿½ essere difficile da mantenere, spesso ottenendo il risultato di un cattivo odore e di un aspetto trasandato che ne impedisce l'uso efficace. I ladri possono indossare questa armatura, ma ha un effetto negativo sulle loro abilitï¿½.
 
 STATISTICHE:
 
@@ -522,7 +522,7 @@ Peso: 40
 Non utilizzabile da:
  Mago~
 @109 = ~Pelle di Bala +4
-Fu indossata da Bala, il malfamato principe dal pessimo temperamento, di un clan di nani di fosso. Quest’arma di pelle si pensa sia stata creata molti anni dopo l’assassinio del crudele mago elfo a Thesk che lo aveva imprigionato. Si tratta di una lavorazione grossolana, simile al modo con cui fu creata la leggendaria Ascia di Bala ma possiede una forte aura, infondendo a chi la indossa una prodigiosa resistenza alla maggior parte delle più potenti magie. 
+Fu indossata da Bala, il malfamato principe dal pessimo temperamento, di un clan di nani di fosso. Questï¿½arma di pelle si pensa sia stata creata molti anni dopo lï¿½assassinio del crudele mago elfo a Thesk che lo aveva imprigionato. Si tratta di una lavorazione grossolana, simile al modo con cui fu creata la leggendaria Ascia di Bala ma possiede una forte aura, infondendo a chi la indossa una prodigiosa resistenza alla maggior parte delle piï¿½ potenti magie. 
 
 STATISTICHE:
 
@@ -538,8 +538,8 @@ Non utilizzabile da:
  Mago~
 @110 = ~Pelle del Barbaro~
 @111 = ~Pelle del Barbaro +1
-Qusta particolare armatura di pelle è costituita da molti strati di pelli lavorate e indurite ottenute da orsi di montagna, donando al chi la indossa una grande protezione. Ma essendo molto voluminosa e ingombrante, è anche molto rigida e scomoda. 
-Anche se offre una maggiore protezione rispetto ad un'armatura di cuoio, l'armatura è lavorata in modo grossolano ed ha un odore rivoltante. Sebbene i ladri possono indossare questa armatura, essa ha degli effetti negativi sulle loro abilità.
+Qusta particolare armatura di pelle ï¿½ costituita da molti strati di pelli lavorate e indurite ottenute da orsi di montagna, donando al chi la indossa una grande protezione. Ma essendo molto voluminosa e ingombrante, ï¿½ anche molto rigida e scomoda. 
+Anche se offre una maggiore protezione rispetto ad un'armatura di cuoio, l'armatura ï¿½ lavorata in modo grossolano ed ha un odore rivoltante. Sebbene i ladri possono indossare questa armatura, essa ha degli effetti negativi sulle loro abilitï¿½.
 
 STATISTICHE:
 
@@ -552,24 +552,24 @@ Peso: 35
 Non utilizzabile da:
  Mago~
 @112 = ~Arma Drow~
-@113 = ~Questo è quello che sembra essere ciò che rimane di un'arma creata utilizzando l'acciaio degli elfi scuri. A quanto pare è stata esposta alla luce del sole e, quindi è ora inutilizzabile.~
+@113 = ~Questo ï¿½ quello che sembra essere ciï¿½ che rimane di un'arma creata utilizzando l'acciaio degli elfi scuri. A quanto pare ï¿½ stata esposta alla luce del sole e, quindi ï¿½ ora inutilizzabile.~
 @114 = ~Armatura Drow~
-@115 = ~Questo è tutto ciò che rimane di un'armatura magica creata con i metalli del Sottosuolo. A quanto pare è stata esposta alla luce del sole e quindi ora é inutilizzabile, sebbene possa rivelarsi un pezzo interessante su cui lavorarci su per un esperto studiso o un artigiano capace.~
+@115 = ~Questo ï¿½ tutto ciï¿½ che rimane di un'armatura magica creata con i metalli del Sottosuolo. A quanto pare ï¿½ stata esposta alla luce del sole e quindi ora ï¿½ inutilizzabile, sebbene possa rivelarsi un pezzo interessante su cui lavorarci su per un esperto studiso o un artigiano capace.~
 @116 = ~Abito Insanguinato~
 @117 = ~Abito della Resistenza Elettrica di Zernan~
-@118 = ~Fin dall'era di Netheril, i maghi hanno imparato ad attribuire varie proprietà magiche agli oggetti che li circondano. Uno degli oggetti preferiti per questi incantesimi è il abito comune. E leggero, economico e tiene bene l'incantesimo, facendone l'equipaggiamento ideale per un mago. Per il loro patrimonio magico, tuttavia, solo i maghi di classe singola, duale e multiclasse possono indossare questi abiti incantati. Questi sembrano essere gli indumenti dell’erudito Zernan, sebbene non ne si può essere certi dato che é talmente lacero e bagnato di sangue. Solo le proprietà magiche del mantello sono state risparmiate dalla completa distruzione.~
-@119 = ~Anche se si vedono meno spesso di alcuni altri abiti da mago, quelli di resistenza elettrica possono essere difficilmente considerati una rarità. Alcuni vengono indossati da paranoici che cercano di proteggersi da un'aspra tempesta di montagna, ma molti altri sono indossati da maghi che cercano la protezione dagli intrighi di altri della loro razza. Come tutti gli abiti di questo genere, l'Abito di resistenza elettrica può essere indossato solo dai professionisti della magia.
-Questi sembrano essere gli indumenti dell’erudito Zernan, sebbene non ne si può essere certi dato che é quasi completamente lacero e bagnato di sangue. Solo le proprietà magiche del mantello sono state risparmiate dalla completa distruzione.
+@118 = ~Fin dall'era di Netheril, i maghi hanno imparato ad attribuire varie proprietï¿½ magiche agli oggetti che li circondano. Uno degli oggetti preferiti per questi incantesimi ï¿½ il abito comune. E leggero, economico e tiene bene l'incantesimo, facendone l'equipaggiamento ideale per un mago. Per il loro patrimonio magico, tuttavia, solo i maghi di classe singola, duale e multiclasse possono indossare questi abiti incantati. Questi sembrano essere gli indumenti dellï¿½erudito Zernan, sebbene non ne si puï¿½ essere certi dato che ï¿½ talmente lacero e bagnato di sangue. Solo le proprietï¿½ magiche del mantello sono state risparmiate dalla completa distruzione.~
+@119 = ~Anche se si vedono meno spesso di alcuni altri abiti da mago, quelli di resistenza elettrica possono essere difficilmente considerati una raritï¿½. Alcuni vengono indossati da paranoici che cercano di proteggersi da un'aspra tempesta di montagna, ma molti altri sono indossati da maghi che cercano la protezione dagli intrighi di altri della loro razza. Come tutti gli abiti di questo genere, l'Abito di resistenza elettrica puï¿½ essere indossato solo dai professionisti della magia.
+Questi sembrano essere gli indumenti dellï¿½erudito Zernan, sebbene non ne si puï¿½ essere certi dato che ï¿½ quasi completamente lacero e bagnato di sangue. Solo le proprietï¿½ magiche del mantello sono state risparmiate dalla completa distruzione.
 
 STATISTICHE:
 
-Resistenza all'Elettricità: bonus +20%
+Resistenza all'Elettricitï¿½: bonus +20%
 Peso: 3
 Utilizzabile solo da:
 Mago (singolo, duale, e multiclasse)~
 @120 = ~Corazza di Piastre~
 @121 = ~Scaglia della Viverna~
-@122 = ~La corazza di piastre è un combinazione tra la corazza di maglia e di piastre che protegge parti vitali come il petto, l'addome e l'inguine. Simile nella struttura alla corazza di piastre di bronzo, la corazza di piastre è una via di mezzo tra maglia e cuoio. 
+@122 = ~La corazza di piastre ï¿½ un combinazione tra la corazza di maglia e di piastre che protegge parti vitali come il petto, l'addome e l'inguine. Simile nella struttura alla corazza di piastre di bronzo, la corazza di piastre ï¿½ una via di mezzo tra maglia e cuoio. 
 
 STATISTICHE:
 
@@ -580,7 +580,7 @@ Non utilizzabile da:
  Druido
  Mago
  Ladro~
-@123 = ~Questa armatura è stata creata per <CHARNAME> da Taerom Fuiruim, rinomato fabbro di Beregost. Modellata con la pelle di una viverna morta, l'armatura è scomoda e pesante ma la sua corazza magica fornisce protezione e dà, a chi la indossa, la resistenza a diversi veleni. 
+@123 = ~Questa armatura ï¿½ stata creata per <CHARNAME> da Taerom Fuiruim, rinomato fabbro di Beregost. Modellata con la pelle di una viverna morta, l'armatura ï¿½ scomoda e pesante ma la sua corazza magica fornisce protezione e dï¿½, a chi la indossa, la resistenza a diversi veleni. 
 
 STATISTICHE:
 
@@ -596,15 +596,15 @@ Non utilizzabile da:
  Ladro~
 @124 = ~Pozione~
 @125 = ~Pozione di Guarigione Maggiore~
-@126 = ~Quando viene consumata completamente, questa pozione restituisce a un personaggio 24 punti ferita. L'effetto è istantaneo e la pozione si distrugge non appena utilizzata.~
+@126 = ~Quando viene consumata completamente, questa pozione restituisce a un personaggio 24 punti ferita. L'effetto ï¿½ istantaneo e la pozione si distrugge non appena utilizzata.~
 @127 = ~Anello~
 @128 = ~L'Anello Mistico~
-@129 = ~Un anello è una piccola fascia di metallo prezioso utilizzata come gioiello. Alcuni anelli rari sono stati incantati e hanno acquisito poteri magici. Questi anelli sono molto ricercati, soprattutto dagli avventurieri.~
-@130 = ~Le esatte origini di questo anello sono sconosciute, tuttavia, si crede che sia stato di proprietà di un grande mago che visse in un piccolo villaggio comportandosi come 'uomo saggio' prima di morire.
+@129 = ~Un anello ï¿½ una piccola fascia di metallo prezioso utilizzata come gioiello. Alcuni anelli rari sono stati incantati e hanno acquisito poteri magici. Questi anelli sono molto ricercati, soprattutto dagli avventurieri.~
+@130 = ~Le esatte origini di questo anello sono sconosciute, tuttavia, si crede che sia stato di proprietï¿½ di un grande mago che visse in un piccolo villaggio comportandosi come 'uomo saggio' prima di morire.
 
 STATISTICHE:
 
-Speciale: aggiunge un incantesimo al 2° e 3° Livello 
+Speciale: aggiunge un incantesimo al 2ï¿½ e 3ï¿½ Livello 
 Utilizzabile da:
 Mago (Singolo, Multi, Classe Duale)~
 @131 = ~Anello Minore della Percezione~
@@ -620,29 +620,29 @@ Utilizzabile da:
  Ladro (Singolo, Multi, Classe Duale)~
 @133 = ~Bastone Rinforzato~
 @134 = ~Bastone dell'Ariete +3~
-@135 = ~Il bastone rinforzato è la più semplice e umile delle armi lunghe ed è costituito da un pezzo di legno lungo da 1,8 a 2,7 m. I bastoni rinforzati di alta qualità vengono fatti in duro legno di quercia e sono ricoperti di metallo a entrambe le estremità. Quest'arma deve essere brandita con entrambe le mani.  
+@135 = ~Il bastone rinforzato ï¿½ la piï¿½ semplice e umile delle armi lunghe ed ï¿½ costituito da un pezzo di legno lungo da 1,8 a 2,7 m. I bastoni rinforzati di alta qualitï¿½ vengono fatti in duro legno di quercia e sono ricoperti di metallo a entrambe le estremitï¿½. Quest'arma deve essere brandita con entrambe le mani.  
 
 STATISTICHE:
 
 Danno: 1D6
 Tipo di danno:  da schiacciamento
 Peso: 4
-Fattore Velocità: 4
-Tipo di Capacità: Bastone ronforzato
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Bastone ronforzato
 Tipo: a due mani
 Non utilizzabile da:~
-@136 = ~Questo bastone é l'arma personale di Cadderly. Incantata dal suo amico, il grande stregone Belisarius, nella sua piccola dimora nei sobborghi di Caradoon, il bastone ha aiutato il sacerdote di Deneir e lo studioso nei suoi molteplici sforzi per combattere le forze del Castello della Trinità. Si dice che questo bastone abbia avuto la benedizione di Deneir e di Oghma, e sia rimasto in possesso del sacerdote per lungo tempo, permettendo un maggior richiamo di preghiere e magie.
+@136 = ~Questo bastone ï¿½ l'arma personale di Cadderly. Incantata dal suo amico, il grande stregone Belisarius, nella sua piccola dimora nei sobborghi di Caradoon, il bastone ha aiutato il sacerdote di Deneir e lo studioso nei suoi molteplici sforzi per combattere le forze del Castello della Trinitï¿½. Si dice che questo bastone abbia avuto la benedizione di Deneir e di Oghma, e sia rimasto in possesso del sacerdote per lungo tempo, permettendo un maggior richiamo di preghiere e magie.
 
 STATISTICHE:
 
 Tiri Salvezza: bonus +1
 THAC0: +3 bonus
 Danno: 1D6 +3
-Speciale: +1 incantesimo da sacerdote extra di 2° e 3° livello
+Speciale: +1 incantesimo da sacerdote extra di 2ï¿½ e 3ï¿½ livello
 Tipo di danno: da schiacciamento
 Peso: 3
-Fattore Velocità: 2
-Tipo di Capacità: Bastone rinforzato
+Fattore Velocitï¿½: 2
+Tipo di Capacitï¿½: Bastone rinforzato
 Tipo: a due mani
 Ustilizzabile da:
  Chierico (Singolo, Multi, Classe Duale)
@@ -659,16 +659,16 @@ Danno: 1D6 +2
 Special:
  +30% di Resistenza al Fuoco
  +3 ai Tiri Salvezza contro Veleno/ Morte
- Pelle Coriacea finché utilizzato
+ Pelle Coriacea finchï¿½ utilizzato
 Tipo di danno:  da schiacciamento
 Peso: 3
-Fattore Velocità: 1 
-Tipo di Capacità: Bastone rinforzato
+Fattore Velocitï¿½: 1 
+Tipo di Capacitï¿½: Bastone rinforzato
 Tipo: a due mani
 Utilizzabile da:
  Druido~
 @139 = ~Bastone dell'Opposizione~
-@140 = ~I disegni sui bordi del bastone indicano che fu creato durante l'età della magia ormai dimenticata ed ha partecipato a molte lotte per il dominio dei piani materiali. L'ultimo proprietario di cui si conosce il nome fu un crudele stregone tiranno ucciso in un combattimento da uno schiavo--- un mago minore che cercava di fuggire dalle oscure prigioni del suo carceriere. Voci e leggende narrano che il prigioniero prese il bastone, e fuggì per mezzo di un portale, e scomparve nella Costa della Spada.
+@140 = ~I disegni sui bordi del bastone indicano che fu creato durante l'etï¿½ della magia ormai dimenticata ed ha partecipato a molte lotte per il dominio dei piani materiali. L'ultimo proprietario di cui si conosce il nome fu un crudele stregone tiranno ucciso in un combattimento da uno schiavo--- un mago minore che cercava di fuggire dalle oscure prigioni del suo carceriere. Voci e leggende narrano che il prigioniero prese il bastone, e fuggï¿½ per mezzo di un portale, e scomparve nella Costa della Spada.
 
 STATISTICHE:
 
@@ -679,15 +679,15 @@ Tiro Salvezza: bonus +2
 Speciale: +10% di Resistenza alla Magia
 Tipo di danno:  da schiacciamento
 Peso: 2
-Fattore Velocità: 1
-Tipo di Capacità: Bastone rinforzato
+Fattore Velocitï¿½: 1
+Tipo di Capacitï¿½: Bastone rinforzato
 Tipo: a due mani
 Utilizzabile da:
  Mago (Singolo, Multi, Classe Duale)
  Bardo~
 @141 = ~Spada Bastarda~
 @142 = ~Distanza~
-@143 = ~Conosciuta anche come spada a una mano e mezza, la spada bastarda deve il suo nome al fatto che è una via di mezzo tra la spada a due mani e quella lunga. La spada bastarda ha una lama a doppio taglio e una lunga impugnatura, sufficientemente grande da accogliere entrambe le mani. La lunghezza complessiva della spada bastarda varia all'incirca da 1,20 a 1,40 m.   
+@143 = ~Conosciuta anche come spada a una mano e mezza, la spada bastarda deve il suo nome al fatto che ï¿½ una via di mezzo tra la spada a due mani e quella lunga. La spada bastarda ha una lama a doppio taglio e una lunga impugnatura, sufficientemente grande da accogliere entrambe le mani. La lunghezza complessiva della spada bastarda varia all'incirca da 1,20 a 1,40 m.   
 
 STATISTICHE:
 
@@ -695,8 +695,8 @@ Danno: 2D4 + 1
 THACO: bonus +1
 Tipo di danno: tagliente
 Peso: 9
-Fattore Velocità: 7
-Tipo di Capacità: Spada Grande
+Fattore Velocitï¿½: 7
+Tipo di Capacitï¿½: Spada Grande
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
@@ -704,9 +704,9 @@ Non utilizzabile da:
  Mago
  Ladro~
 @144 = ~Spada Bastarda +1: La Distanza
-Questa, in apparenza semplice, spada bastarda si dice fosse appartenuta all'infame gladiatore, Abdel lo Skaven, il quale con furbizia e astuzia riuscì a vincere i suoi trentotto combattimenti nelle arene clandestine, cosa mai avvenuta prima. Dei testimoni raccontano che il barbaro riusciva a colpire il suo nemico evitando poi, allontanandosi rapidamente, le reazioni e i colpi del suo avversario.
+Questa, in apparenza semplice, spada bastarda si dice fosse appartenuta all'infame gladiatore, Abdel lo Skaven, il quale con furbizia e astuzia riuscï¿½ a vincere i suoi trentotto combattimenti nelle arene clandestine, cosa mai avvenuta prima. Dei testimoni raccontano che il barbaro riusciva a colpire il suo nemico evitando poi, allontanandosi rapidamente, le reazioni e i colpi del suo avversario.
 
-Spesso le storie non si discostano molto dalla verità. La lama possiede la strana abilità di nascondere temporaneamente il suo possessore dopo un colpo andato a buon fine, dando al suo proprietario il tempo di allontanarsi dal nemico oppure di assestargli un altro colpo. 
+Spesso le storie non si discostano molto dalla veritï¿½. La lama possiede la strana abilitï¿½ di nascondere temporaneamente il suo possessore dopo un colpo andato a buon fine, dando al suo proprietario il tempo di allontanarsi dal nemico oppure di assestargli un altro colpo. 
 
 STATISTICHE:
 
@@ -715,8 +715,8 @@ THACO: bonus +1
 Speciale: il 50% delle volte, con un colpo andato a buon fine, il possessore diventa invisibile per 12 secondi 
 Tipo di danno: tagliente
 Peso: 9
-Fattore Velocità: 7
-Tipo di Capacità: Spada Bastarda
+Fattore Velocitï¿½: 7
+Tipo di Capacitï¿½: Spada Bastarda
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
@@ -725,15 +725,15 @@ Non utilizzabile da:
  Ladro~
 @145 = ~Spada Corta~
 @146 = ~Spada corta Drow per Pugnalare alle Spalle~
-@147 = ~La spada corta fu la prima spada prodotta. Per dare un'idea approssimativa della forma, la spada corta può essere assimilata a una sorta di pugnale con lama così lunga da non poter più essere considerata tale. Il termine spada corta non esiste nella classificazione delle spade. Tuttavia, definisce una lama a doppio taglio di circa 60 cm. Solitamente l'estremità è appuntita, l'ideale per trafiggere. 
+@147 = ~La spada corta fu la prima spada prodotta. Per dare un'idea approssimativa della forma, la spada corta puï¿½ essere assimilata a una sorta di pugnale con lama cosï¿½ lunga da non poter piï¿½ essere considerata tale. Il termine spada corta non esiste nella classificazione delle spade. Tuttavia, definisce una lama a doppio taglio di circa 60 cm. Solitamente l'estremitï¿½ ï¿½ appuntita, l'ideale per trafiggere. 
 
 STATISTICHE:
 
 Danno: 1D6
 Tipo di danno: perforante
 Peso: 3
-Fattore Velocità: 3
-Tipo di Capacità: Spada Corta
+Fattore Velocitï¿½: 3
+Tipo di Capacitï¿½: Spada Corta
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
@@ -750,8 +750,8 @@ Danno: 1D6 +3
 THACO: bonus +3
 Tipo di danno perforante
 Peso: 3 
-Fattore Velocità: 0
-Tipo di Capacità: Spada Corta
+Fattore Velocitï¿½: 0
+Tipo di Capacitï¿½: Spada Corta
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
@@ -759,15 +759,15 @@ Non utilizzabile da:
  Mago ~
 @149 = ~Spada a due mani ~
 @150 = ~Havok~
-@151 = ~La spada a due mani deriva dalla spada lunga. Nell'ambito dei costanti tentativi dei fabbricanti di migliorare le gli equipaggiamenti dei guerrieri, la lama della spada lunga è stata allungata e quindi è stato necessario allungare l'impugnatura per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare i cavalieri in sella e spezzare le formazioni armate di picche. 
+@151 = ~La spada a due mani deriva dalla spada lunga. Nell'ambito dei costanti tentativi dei fabbricanti di migliorare le gli equipaggiamenti dei guerrieri, la lama della spada lunga ï¿½ stata allungata e quindi ï¿½ stato necessario allungare l'impugnatura per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani ï¿½ quella di disarcionare i cavalieri in sella e spezzare le formazioni armate di picche. 
 
 STATISTICHE:
 
 Danno: 1D10
 Tipo di danno: tagliente
 Peso: 15
-Fattore Velocità: 10
-Tipo di Capacità: Spada a due mani
+Fattore Velocitï¿½: 10
+Tipo di Capacitï¿½: Spada a due mani
 Tipo: a due mani
 Non utilizzabile da:
  Druido
@@ -775,17 +775,17 @@ Non utilizzabile da:
  Mago 
  Ladro~
 @152 = ~Spada a due mani +2 : 'Havok' 
-Strappata dagli artigli del messaggero demone malvagio Ranthis da un gruppo di avventurieri condotti da <CHARNAME>, questa lama a due mani ancora porta il marchio del suo possessore originale riempiendo chiunque la tocchi di odio e rancore. E' un'arma potentissima, in grado di paralizzare chiunque, anche i più resistenti avversari, ma può solo essere posseduta da coloro che condividono i malvagi desideri di Ranthis.
+Strappata dagli artigli del messaggero demone malvagio Ranthis da un gruppo di avventurieri condotti da <CHARNAME>, questa lama a due mani ancora porta il marchio del suo possessore originale riempiendo chiunque la tocchi di odio e rancore. E' un'arma potentissima, in grado di paralizzare chiunque, anche i piï¿½ resistenti avversari, ma puï¿½ solo essere posseduta da coloro che condividono i malvagi desideri di Ranthis.
 
 STATISTICHE:
 Danno: 1D10 +2
 THACO: bonus +2
-Speciale: il 75% delle volte che il bersaglio viene colpito dalla Havok deve effettuare un tiro Salvezza contro la Paralisi con una penalità di -1 o essere paralizzato per 12 secondi.
+Speciale: il 75% delle volte che il bersaglio viene colpito dalla Havok deve effettuare un tiro Salvezza contro la Paralisi con una penalitï¿½ di -1 o essere paralizzato per 12 secondi.
 +20 al massimo dei punti ferita 
 Tipo di danno: tagliente
 Peso: 8
-Fattore Velocità: 8
-Tipo di Capacità: Spada a due mani
+Fattore Velocitï¿½: 8
+Tipo di Capacitï¿½: Spada a due mani
 Tipo: a due mani
 Non utilizzabile da:
  Personaggi di allineamento Buono
@@ -795,7 +795,7 @@ Non utilizzabile da:
  Ladro~
 @153 = ~Valorosa~
 @154 = ~Spada a due mani +1: la Valorosa
-Presa dall'auto proclamatosi "Il più Grande degli Orchi Magi" Kahrk, la Valorosa fu originariamente donata a Sir Gregory di Pillar, capo di un gruppo di crociati che cercavano di sbarazzarsi lungo la Costa della Spada di una violenta orda di orchi. I crociati fallirono nella loro missione, massacrati e sopraffatti da un potente mostro nella famigerata Battaglia del Passo di Tyrad. La Valorosa fu presa dagli orchi come il premio della disfatta degli umani e se la portarono via come emblema e ricordo dello spaventoso potere degli orchi. La lama, tuttavia, ha conservato la sua purezza anche attraverso decadi di possesso orchesco. Leggende narrano che un eroe verrà e rivendicherà la sacra arma e ciò comporterà una serie di cambiamenti sulla faccia della Costa della Spada ben diversi da quelli che Faerun abbia mai visto fino ad adesso.
+Presa dall'auto proclamatosi "Il piï¿½ Grande degli Orchi Magi" Kahrk, la Valorosa fu originariamente donata a Sir Gregory di Pillar, capo di un gruppo di crociati che cercavano di sbarazzarsi lungo la Costa della Spada di una violenta orda di orchi. I crociati fallirono nella loro missione, massacrati e sopraffatti da un potente mostro nella famigerata Battaglia del Passo di Tyrad. La Valorosa fu presa dagli orchi come il premio della disfatta degli umani e se la portarono via come emblema e ricordo dello spaventoso potere degli orchi. La lama, tuttavia, ha conservato la sua purezza anche attraverso decadi di possesso orchesco. Leggende narrano che un eroe verrï¿½ e rivendicherï¿½ la sacra arma e ciï¿½ comporterï¿½ una serie di cambiamenti sulla faccia della Costa della Spada ben diversi da quelli che Faerun abbia mai visto fino ad adesso.
 
 STATISTICHE:
 
@@ -805,8 +805,8 @@ Speciale: +10 ai punti ferita
 Danno: 1D10 +1
 Tipo di danno: tagliente
 Peso: 10
-Fattore Velocità: 4
-Tipo di Capacità: Spada a due mani
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Spada a due mani
 Tipo: a due mani
 Non utilizzabile da:
  Druido
@@ -817,28 +817,28 @@ Non utilizzabile da:
  Personaggi di allineamento Malvagio~
 @155 = ~Balestra Leggera~
 @156 = ~Balestra Leggera Drow +1~
-@157 = ~Una balestra è un arco montato a croce su un'asta di legno o di metallo e su un'impugnatura chiamata calcio. L'arco di solito è fatto in pioppo o in tasso. La balestra spara un dardo (solitamente chiamato quadrello). 
+@157 = ~Una balestra ï¿½ un arco montato a croce su un'asta di legno o di metallo e su un'impugnatura chiamata calcio. L'arco di solito ï¿½ fatto in pioppo o in tasso. La balestra spara un dardo (solitamente chiamato quadrello). 
 
 STATISTICHE:
 
 Peso: 7
-Fattore Velocità: 5
-Tipo di Capacità: Balestra
+Fattore Velocitï¿½: 5
+Tipo di Capacitï¿½: Balestra
 Tipo: a due mani
 Non utilizzabile da:
  Druido
  Chierico
  Mago~
 @158 = ~Balestra Leggera Drow +1
-Questa balestra é fatta di uno singolare ma leggero metallo proveniente dal Sottosuolo. La balestra spara un dardo (solitamente chiamato quadrello). 
+Questa balestra ï¿½ fatta di uno singolare ma leggero metallo proveniente dal Sottosuolo. La balestra spara un dardo (solitamente chiamato quadrello). 
 
 STATISTICHE:
 
 Danno: +1 (proiettili)
 THAC0: bonus +1
 Peso: 6
-Fattore Velocità: 4
-Tipo di Capacità: Balestra
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Balestra
 Tipo: a due mani
 Non utilizzabile da:
  Druido
@@ -846,17 +846,17 @@ Non utilizzabile da:
  Mago~
 @159 = ~Amuleto dell'influenza di metaincantesimo: "L'Amplificatore"~
 @160 = ~Amuleto dell'influenza di metaincantesimo: "L'Amplificatore" 
-Rinomato per la sua abilità nel potenziare qualsiasi incantesimo, l'Amuleto dell'Influenza Metaincantesimo è molto ricercato da chi pratica la magia. Venne creato da Elairdrin Mellwith che viveva sulle Montagne della Stella. Il motivo per cui creò questo oggetto è collegato alla sua fama di donnaiolo e fino adesso l'amplificatore ha svolto il suo compito in maniera ineccepibile. Gli venne in seguito sottratto da un mago con fini molto peggiori, ma su questo passaggio di proprietà ci sono diverse versioni discordanti.
+Rinomato per la sua abilitï¿½ nel potenziare qualsiasi incantesimo, l'Amuleto dell'Influenza Metaincantesimo ï¿½ molto ricercato da chi pratica la magia. Venne creato da Elairdrin Mellwith che viveva sulle Montagne della Stella. Il motivo per cui creï¿½ questo oggetto ï¿½ collegato alla sua fama di donnaiolo e fino adesso l'amplificatore ha svolto il suo compito in maniera ineccepibile. Gli venne in seguito sottratto da un mago con fini molto peggiori, ma su questo passaggio di proprietï¿½ ci sono diverse versioni discordanti.
 
 STATISTICHE:
 
 Special: Memorizza un incantesimo extra di primo e secondo livello
 Utilizzabile da:
  Mago (Singolo, Multi, Classe Duale)~
-@161 = ~La scrittura nel testo è quasi completamente incomprensibile e sembrano non essere utili neanche i tentativi di comprensione attraverso la magia od ogni altro mezzo. Forse un erudito o una persona più competente di arti antiche potrebbe essere in grado di dare un significato a questo testo arcaico~
-@162 = ~Le parole "Kozah" "Armatura di Firewine" e "Ulcaster" sono state rese comprensibili. Il resto della scrittura del testo è quasi completamente incomprensibile e sembrano non essere utili neanche i tentativi di comprensione attraverso la magia od ogni altro mezzo.~
+@161 = ~La scrittura nel testo ï¿½ quasi completamente incomprensibile e sembrano non essere utili neanche i tentativi di comprensione attraverso la magia od ogni altro mezzo. Forse un erudito o una persona piï¿½ competente di arti antiche potrebbe essere in grado di dare un significato a questo testo arcaico~
+@162 = ~Le parole "Kozah" "Armatura di Firewine" e "Ulcaster" sono state rese comprensibili. Il resto della scrittura del testo ï¿½ quasi completamente incomprensibile e sembrano non essere utili neanche i tentativi di comprensione attraverso la magia od ogni altro mezzo.~
 @163 = ~Mantello Sacro~
-@164 = ~Questo mantello è un artefatto sacro degli abitanti del villaggio dei lupi mannari. E un oggetto il cui valore simbolico è perfino superiore ai suoi poteri magici, poiché ricorda il loro primo arrivo sull'isola.
+@164 = ~Questo mantello ï¿½ un artefatto sacro degli abitanti del villaggio dei lupi mannari. E un oggetto il cui valore simbolico ï¿½ perfino superiore ai suoi poteri magici, poichï¿½ ricorda il loro primo arrivo sull'isola.
 
 STATISTICHE: 
  
@@ -864,25 +864,25 @@ STATISTICHE:
 Non utilizzabile da:
  Ladro
  Bardo~
-@165 = ~Questo mantello è un artefatto sacro degli abitanti del villaggio dei lupi mannari. E un oggetto il cui valore simbolico è perfino superiore ai suoi poteri magici, poiché ricorda il loro primo arrivo sull'isola.
+@165 = ~Questo mantello ï¿½ un artefatto sacro degli abitanti del villaggio dei lupi mannari. E un oggetto il cui valore simbolico ï¿½ perfino superiore ai suoi poteri magici, poichï¿½ ricorda il loro primo arrivo sull'isola.
 
 STATISTICHE: 
 
 Classe Armatura: bonus +1 
-Speciale: Si é Benedetti finchè lo si indossa
+Speciale: Si ï¿½ Benedetti finchï¿½ lo si indossa
 Non utilizzabile da:
  Ladro
  Bardo~
 @166 = ~Mantello~
 @167 = ~Mantello di Shandalar~
-@168 = ~Questo mantello è stato rubato da Shandalar dal potente mago Semia, probabilmente a causa del potere magico che possiede. Il destino di Semia e come sia potuto arrivare nelle tue mani rimangono misteri che probabilmente non avranno soluzione. E anche il funzionamento del mantello, incomprensibile anche ad un mago di grande potere.
+@168 = ~Questo mantello ï¿½ stato rubato da Shandalar dal potente mago Semia, probabilmente a causa del potere magico che possiede. Il destino di Semia e come sia potuto arrivare nelle tue mani rimangono misteri che probabilmente non avranno soluzione. E anche il funzionamento del mantello, incomprensibile anche ad un mago di grande potere.
 
 STATISTICHE:
  
  Sconosciute
 Utilizzabile da:
  Mago (Singolo, Multi, Classe Duale)~
-@169 = ~Questo mantello è stato rubato da Shandalar dal potente mago Semia, probabilmente a causa del potere magico che possiede. Il destino di Semia e come sia potuto arrivare nelle tue mani rimangono misteri che probabilmente non avranno soluzione. E anche il funzionamento del mantello, incomprensibile anche ad un mago di grande potere.
+@169 = ~Questo mantello ï¿½ stato rubato da Shandalar dal potente mago Semia, probabilmente a causa del potere magico che possiede. Il destino di Semia e come sia potuto arrivare nelle tue mani rimangono misteri che probabilmente non avranno soluzione. E anche il funzionamento del mantello, incomprensibile anche ad un mago di grande potere.
 
 STATISTICHE:
 
@@ -890,7 +890,7 @@ Classe Armatura: bonus +1
 Speciale:
  +2 all'Intelligenza
  +15 alla Conoscenza
- Un incantesimo extra di 4° livello
+ Un incantesimo extra di 4ï¿½ livello
 Utilizzabile da:
  Mago (Singolo, Multi, Classe Duale)~
 @170 = ~Spada Vampirica~
@@ -902,35 +902,35 @@ STATISTICHE:
 Danno: 1D8
 Tipo di danno: tagliente
 Peso: 4
-Fattore Velocità: 5
-Tipo di Capacità: Spada Lunga
+Fattore Velocitï¿½: 5
+Tipo di Capacitï¿½: Spada Lunga
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Chierico
  Mago~
-@173 = ~ Si potrebbe dire che siano state le speculazioni sulla natura e sull'esistenza di quest'arma a portarla dal regno del fantastico alla realtà, anche se, come nel caso di tutto ciò che nasce dalla fantasia, niente è come sembra. In effetti la lama ha delle capacità vampiriche, come il nome sembra suggerire; ma non funzionano nel modo in cui il suo possessore spererebbe. Si dice che la spada, invece di essere una normale arma vampirica, sia stata costruita dai vampiri stessi affinché fosse una trappola per eventuali nemici. Queste creature perverse ed intelligenti hanno creato molti esemplari di queste spade maledette con il passare del tempo, tutte destinate a diventare il flagello di innumerevoli avventurieri che credevano nella giustizia. Ogni colpo di quest'arma infligge in realtà danni su chi la impugna, visto che le sue energie vitali vengono risucchiate per curare il bersaglio dei suoi colpi. Come se non fosse sufficiente, l'arma è stata maledetta in modo che non possa essere abbandonata, e per questo motivo chi la usa è soggetto ad uno rapido decadimento delle facoltà intellettive, tale che non riesce più a neanche a pensare di liberarsene. Questo è uno dei pochi tesori magici che non vale la pena di cercare, ed uno di quei casi in cui un avventuriero farebbe meglio a trascorrere un po' di tempo a riposarsi e a bere qualcosa, invece di andare in giro per territori selvaggi con lo zaino pieno di cianfrusaglie maledette come questa.. In aggiunta, la spregevole lama possiede una strana aura magica impossibile da decifrare.
+@173 = ~ Si potrebbe dire che siano state le speculazioni sulla natura e sull'esistenza di quest'arma a portarla dal regno del fantastico alla realtï¿½, anche se, come nel caso di tutto ciï¿½ che nasce dalla fantasia, niente ï¿½ come sembra. In effetti la lama ha delle capacitï¿½ vampiriche, come il nome sembra suggerire; ma non funzionano nel modo in cui il suo possessore spererebbe. Si dice che la spada, invece di essere una normale arma vampirica, sia stata costruita dai vampiri stessi affinchï¿½ fosse una trappola per eventuali nemici. Queste creature perverse ed intelligenti hanno creato molti esemplari di queste spade maledette con il passare del tempo, tutte destinate a diventare il flagello di innumerevoli avventurieri che credevano nella giustizia. Ogni colpo di quest'arma infligge in realtï¿½ danni su chi la impugna, visto che le sue energie vitali vengono risucchiate per curare il bersaglio dei suoi colpi. Come se non fosse sufficiente, l'arma ï¿½ stata maledetta in modo che non possa essere abbandonata, e per questo motivo chi la usa ï¿½ soggetto ad uno rapido decadimento delle facoltï¿½ intellettive, tale che non riesce piï¿½ a neanche a pensare di liberarsene. Questo ï¿½ uno dei pochi tesori magici che non vale la pena di cercare, ed uno di quei casi in cui un avventuriero farebbe meglio a trascorrere un po' di tempo a riposarsi e a bere qualcosa, invece di andare in giro per territori selvaggi con lo zaino pieno di cianfrusaglie maledette come questa.. In aggiunta, la spregevole lama possiede una strana aura magica impossibile da decifrare.
 
 STATISTICHE:
 
 Danno: 1D8 +1
 THACO: bonus +1
 Speciale: Infligge danni a chi la impugna e li cura al bersaglio. 
-Capacità Speciale Sconosciuta 
+Capacitï¿½ Speciale Sconosciuta 
 Tipo di danno: tagliente
 Peso: 4
-Fattore Velocità: 4
-Tipo di Capacità: Spada Grande
+Fattore Velocitï¿½: 4
+Tipo di Capacitï¿½: Spada Grande
 Tipo: ad una mano
 Non utilizzabile da:
  Druido
  Chierico
  Mago~
 @174 = ~Questo mod richiede BGT~
-@175 = ~Gli oggetti potenziati di Vault – Compatibilità con Item Revisions. Raccomandato per avere una coerenza se in seguito si desidera installare il componente principale di Item Revision~
+@175 = ~Gli oggetti potenziati di Vault ï¿½ Compatibilitï¿½ con Item Revisions. Raccomandato per avere una coerenza se in seguito si desidera installare il componente principale di Item Revision~
 @176 = ~Elmo della difesa~
 @177 = ~Dono di Pace
-Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. L'elmo ha affrontato molte battaglie da quando è stato creato, ma è sempre rimasto fedele alla semplice natura di quel gesto.
+Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. L'elmo ha affrontato molte battaglie da quando ï¿½ stato creato, ma ï¿½ sempre rimasto fedele alla semplice natura di quel gesto.
 
 STATISTICHE:
 
@@ -947,12 +947,12 @@ Non utilizzabile da:
  Ladro
  Kensai~
 @178 = ~Il Guardiano di Helm~
-@179 = ~Non é ben chiaro se questi tipi di copricapo magici siano stati creati dai sacerdoti di Helm, il dio dei guardiani, oppure acquistarono il loro nome da circostanze più di origine pratica. In ogni caso, sono altamente stimati dai guardiani e dalle sentinelle. Inutile dire che anche i banditi lo indossano, dimostrando le parole di un vecchio proverbio che dice 'quello che è buono per uno è buono anche per l’altro'.
+@179 = ~Non ï¿½ ben chiaro se questi tipi di copricapo magici siano stati creati dai sacerdoti di Helm, il dio dei guardiani, oppure acquistarono il loro nome da circostanze piï¿½ di origine pratica. In ogni caso, sono altamente stimati dai guardiani e dalle sentinelle. Inutile dire che anche i banditi lo indossano, dimostrando le parole di un vecchio proverbio che dice 'quello che ï¿½ buono per uno ï¿½ buono anche per lï¿½altro'.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Immunità alla cecità e alla sordità
+ Immunitï¿½ alla cecitï¿½ e alla sorditï¿½
  
 
 Bonus alla Classe Armatura: 1
@@ -970,7 +970,7 @@ Non utilizzabile da:
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Immunità agli effetti dello Charme
+ Immunitï¿½ agli effetti dello Charme
 
 Bonus alla Classe Armatura: 1
 Protegge contro i Colpi Critici
@@ -983,7 +983,7 @@ Non utilizzabile da:
  Kensai~
 @182 = ~Elmo della difesa~
 @183 = ~Dono di Pace
-Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. Successivamente, a causa della sua efficacia in ogni situazione, sono state create innumerevoli varianti di questo elmo. L'elmo ha affrontato molte battaglie da quando è stato creato, ma è sempre rimasto fedele alla semplice natura di quel gesto. Questo elmo è stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
+Prezioso per le sue nobili origini e per i benefici che infonde a chi lo indossa, originariamente quest'elmo voleva essere solamente un semplice regalo. Non c'erano guerre imminenti o pericolosi nemici da sconfiggere: fu solo il regalo di un amico. Sarebbe potuto essere un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando si trattava di regali. Successivamente, a causa della sua efficacia in ogni situazione, sono state create innumerevoli varianti di questo elmo. L'elmo ha affrontato molte battaglie da quando ï¿½ stato creato, ma ï¿½ sempre rimasto fedele alla semplice natura di quel gesto. Questo elmo ï¿½ stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
 
 STATISTICHE:
 
@@ -1001,14 +1001,14 @@ Non utilizzabile da:
  ladro
  Kensai~
 @184 = ~Il Guardiano di Helm~
-@185 = ~Non é ben chiaro se questi tipi di copricapo magici siano stati creati dai sacerdoti di Helm, il dio dei guardiani, oppure acquistarono il loro nome da circostanze più di origine pratica. In ogni caso, sono altamente stimati dai guardiani e dalle sentinelle. Inutile dire che anche i banditi lo indossano, dimostrando le parole di un vecchio proverbio che dice 'quello che è buono per uno è buono anche per l’altro'.
+@185 = ~Non ï¿½ ben chiaro se questi tipi di copricapo magici siano stati creati dai sacerdoti di Helm, il dio dei guardiani, oppure acquistarono il loro nome da circostanze piï¿½ di origine pratica. In ogni caso, sono altamente stimati dai guardiani e dalle sentinelle. Inutile dire che anche i banditi lo indossano, dimostrando le parole di un vecchio proverbio che dice 'quello che ï¿½ buono per uno ï¿½ buono anche per lï¿½altro'.
 
-Questo elmo è stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
+Questo elmo ï¿½ stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Immunità alla cecità ed alla sordità
+ Immunitï¿½ alla cecitï¿½ ed alla sorditï¿½
  THAC0: bonus +1
 
 Bonus alla Classe Armatura: 1
@@ -1023,12 +1023,12 @@ Non utilizzabile da:
 @186 = ~Elmo della protezione dallo Charme~
 @187 = ~Come si desume dal nome, l'Elmo della protezione dallo Charme protegge colui che lo indossa da eventuali tentativi magici di manipolazione emotiva. Come precauzione, alcuni gruppi mercenari di un certo livello, forniscono questi elmi ai loro membri per garantire che possano svolgere i compiti impartiti senza subire alcuna influenza esterna.
 
-Questo elmo è stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
+Questo elmo ï¿½ stato migliorato dal fabbro di Beregost, Taerom Thunderhammer.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Immunità agli effetti dello Charme
+ Immunitï¿½ agli effetti dello Charme
  Saggezza: bonus di +1
 
 Bonus alla Classe Armatura: 1
@@ -1052,7 +1052,7 @@ Peso: 3
 Utilizzabile da:
  Mago~
 @190 = ~Abito della resistenza al fuoco~
-@191 = ~Per la natura estremamente incostante della maggior parte delle magie, gli Abiti di resistenza al fuoco non sono insoliti fra i giovani accoliti e i loro tutori di magia, soprattutto nei dintorni di Thay e negli enclavi dove è diffuso il culto verso Firelord Kossuth.
+@191 = ~Per la natura estremamente incostante della maggior parte delle magie, gli Abiti di resistenza al fuoco non sono insoliti fra i giovani accoliti e i loro tutori di magia, soprattutto nei dintorni di Thay e negli enclavi dove ï¿½ diffuso il culto verso Firelord Kossuth.
 
 STATISTICHE:
 
@@ -1062,44 +1062,44 @@ Bonus di equipaggiamento:
 Peso: 3
 Utilizzabile da:
  Mago~
-@192 = ~Abito della resistenza all’elettricità ~
-@193 = ~Anche se si vedono meno spesso di alcuni altri abiti da mago, quelli di resistenza elettrica possono essere difficilmente considerati una rarità. Alcuni vengono indossati da paranoici che cercano di proteggersi da un'aspra tempesta di montagna, ma molti altri sono indossati da maghi che cercano la protezione dagli intrighi di altri della loro razza.
+@192 = ~Abito della resistenza allï¿½elettricitï¿½ ~
+@193 = ~Anche se si vedono meno spesso di alcuni altri abiti da mago, quelli di resistenza elettrica possono essere difficilmente considerati una raritï¿½. Alcuni vengono indossati da paranoici che cercano di proteggersi da un'aspra tempesta di montagna, ma molti altri sono indossati da maghi che cercano la protezione dagli intrighi di altri della loro razza.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Resistenza all’Elettricità: +40% di bonus
+ Resistenza allï¿½Elettricitï¿½: +40% di bonus
 
 Peso: 3
 Utilizzabile da:
  Mago~
 @194 = ~Abito del furfante~
-@195 = ~Questo abito é stato incantato soprattutto per andare incontro ai bisogni eclettici del mago multiclasse. Preferito dai maghi ladri, l'Abito del furfante ha subito un incantesimo per proteggere chi lo indossa dalle spade e dai veleni dei vicoli bui. Come gli altri abiti di questo tipo, tuttavia, può essere usato solo dagli studiosi dell'arcano.
+@195 = ~Questo abito ï¿½ stato incantato soprattutto per andare incontro ai bisogni eclettici del mago multiclasse. Preferito dai maghi ladri, l'Abito del furfante ha subito un incantesimo per proteggere chi lo indossa dalle spade e dai veleni dei vicoli bui. Come gli altri abiti di questo tipo, tuttavia, puï¿½ essere usato solo dagli studiosi dell'arcano.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Immunità alla pugnalata alle spalle
+ Immunitï¿½ alla pugnalata alle spalle
  Tiri Salvezza: bonus di +2 bonus contro il veleno
 
 Peso: 4
 Utilizzable da:
  Mago~
 @196 = ~Abito del Viaggiatore~
-@197 = ~Questo abito del mago é stato creato per essere utilizzato dai viaggiatori, da maghi girovaghi che viaggiano da una città ad un’altra. I suoi incantamenti non solo proteggono dalle frecce dei banditi ma permettono anche a chi lo indossa di essere straordinariamente veloce senza alcuno sforzo. Come gli altri abiti di questo tipo, l’abito del Viaggiatore può essere indossato solo dai maghi.
+@197 = ~Questo abito del mago ï¿½ stato creato per essere utilizzato dai viaggiatori, da maghi girovaghi che viaggiano da una cittï¿½ ad unï¿½altra. I suoi incantamenti non solo proteggono dalle frecce dei banditi ma permettono anche a chi lo indossa di essere straordinariamente veloce senza alcuno sforzo. Come gli altri abiti di questo tipo, lï¿½abito del Viaggiatore puï¿½ essere indossato solo dai maghi.
 
 STATISTICHE:
 
 Bonus di equipaggiamento:
- Velocità di movimento: bonus di +2
+ Velocitï¿½ di movimento: bonus di +2
  Classe Armatura: +2 di bonus contro i proiettili
  Tiri Salvezza: +2 di bonus contro soffio
 
 Peso: 4
 Utilizzabile da:
  Mago~
-@198 = ~Abito dell’Avventuriero~
-@199 = ~Il primo Royal Magician Vangerdahast al servizio di Re Azoun IV di Cormyr, una volta era un abile avventuriero di grande fama. L’unica ragione per cui divenne popolare tra i circoli dei maghi fu la creazione dell’Abito dell’Avventuriero. I maghi sono sempre stati impossibilitati a prendere parte in prima persona ai combattimenti in mischia per il fatto di dover lanciare incantesimi. Questi abiti danno al mago un certo margine di sopravvivenza nei combattimenti corpo a corpo poiché sono in grado di assorbire alcuni danni provocati dai colpi della lotta.
+@198 = ~Abito dellï¿½Avventuriero~
+@199 = ~Il primo Royal Magician Vangerdahast al servizio di Re Azoun IV di Cormyr, una volta era un abile avventuriero di grande fama. Lï¿½unica ragione per cui divenne popolare tra i circoli dei maghi fu la creazione dellï¿½Abito dellï¿½Avventuriero. I maghi sono sempre stati impossibilitati a prendere parte in prima persona ai combattimenti in mischia per il fatto di dover lanciare incantesimi. Questi abiti danno al mago un certo margine di sopravvivenza nei combattimenti corpo a corpo poichï¿½ sono in grado di assorbire alcuni danni provocati dai colpi della lotta.
 
 STATISTICHE:
 
@@ -1109,10 +1109,10 @@ Bonus di equipaggiamento:
 Peso: 4
 Utilizzabile da:
  Mago~
-@200 = ~L’Abito d’Acciaio
-L'Abito d'Acciaio è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti, degni dello stesso Thalantyr.
+@200 = ~Lï¿½Abito dï¿½Acciaio
+L'Abito d'Acciaio ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti, degni dello stesso Thalantyr.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami, facendone un formidabile mago.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami, facendone un formidabile mago.
 
 STATISTICHE:
 
@@ -1121,35 +1121,35 @@ Tiri Salvezza: bonus di +1
 Resistenza alla Magia: +20%
 Resistenza al Fuoco: +30% 
 Resistenza al Freddo: +30% 
-Resistenza all’Elettricità: +30% 
+Resistenza allï¿½Elettricitï¿½: +30% 
 Peso:  9
 Utilizzabile solamente da:
 Mago (singolo, duale, e multiclasse)~
 @201 = ~Abito Minore della Resistenza
-L'Abito Minore della Resistenza è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
+L'Abito Minore della Resistenza ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
 
 STATISTICHE:
 
 Classe Armatura: 7
 Resistenza al Fuoco: 30% 
 Resistenza al Freddo: 30% 
-Resistenza all’Elettricità: 30% 
+Resistenza allï¿½Elettricitï¿½: 30% 
 Peso:  9
 Utilizzabile solamente da:
 Mago (singolo, duale, e multiclasse)~
-@202 = ~L'Abito dell’Erudito
-L'Abito dell’Erudito è stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
+@202 = ~L'Abito dellï¿½Erudito
+L'Abito dellï¿½Erudito ï¿½ stato creato da Melicamp, il mago apprendista di Beregost, come ringraziamento verso <CHARNAME> per averlo salvato dalle fauci di un lupo feroce a seguito di una sua accidentale trasformazione in pollo. Gli approfonditi studi di questo mago minore hanno permesso la creazione di diversi abiti che lui ha munito di incantamenti straordinariamente potenti.
 
-Questi forti abiti possiedono l'elasticità e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
+Questi forti abiti possiedono l'elasticitï¿½ e durevolezza dell'acciaio Drow senza il difetto di ridursi in polvere sotto la luce del sole. Quando indossati forniscono anche resistenza a molti degli elementi magici utilizzati nei reami.
 
 STATISTICHE:
 
 Classe Armatura: 7
 Tiro Salvezza: bonus di +1
 Resistenza alla Magia: 10%
-Velocità di movimento: bonus di +2
+Velocitï¿½ di movimento: bonus di +2
 Peso:  9
 Utilizzabile solamente da:
 Mago (singolo, duale, e multiclasse)~

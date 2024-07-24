@@ -6,4 +6,3 @@ THEN
     ForceSpell(LastTrigger,WIZARD_WEB)
     ForceSpell(LastTrigger,TRAP_FIREBALL)
 END
-

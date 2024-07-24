@@ -6,4 +6,3 @@ THEN
     ForceSpell(LastTrigger,WIZARD_WEB)
     ForceSpell(LastTrigger,TRAP_STINKING_CLOUD)
 END
-
