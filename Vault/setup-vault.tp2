@@ -12,7 +12,7 @@ AUTHOR ~http://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/~
 
 VERSION ~v7.2~
 
-README ~vault/ReadMe-Vault.html~
+README ~%MOD_FOLDER%/readme/ReadMe-Vault.html~
 
 AUTO_TRA ~Vault/Language/%s/D~
 
